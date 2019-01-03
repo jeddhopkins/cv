@@ -71,7 +71,7 @@ Completed business analysis for a range of business change projects within Welco
 
 ## Education
 
-#### Makers Academy (June 2016 to September 2016)
+#### Makers Academy (January 2019 to April 2019)
 
 A 16-week intensive development bootcamp, emphasizing:
 - Pair-programming
@@ -79,15 +79,14 @@ A 16-week intensive development bootcamp, emphasizing:
 - Object Oriented Design
 - Agile
 
-#### University of Essex (September 2003 to July 2006)
+#### Sheffield Hallam University (September 2008 to July 2013)
 
-- Philosophy, BA (Hons), 2.1
-- Directed and acted in several plays at the Lakeside Theatre
-- Worked at the University Student's Union throughout my studies
+- Banking with Financial Management, Bachelor of Arts, with Merit
+- Played football for the university B team & 5-a-side in a private league
 
 
 ## Interests
 
-I direct theatre in my spare time and have directed short plays performed at Lyric Hammersmith and St James Theatre.
-I play tag rugby with AND Digital, travel whenever I can and enjoy exploring London.
-You can find me at the gym most mornings and I'm a regular at yoga.
+- I love reading in my spare time and try to finish a book every three weeks
+- I play 5-a-side football whenever I can and enjoy exploring London.
+- You can find me at the gym most mornings and I'm a regular at yoga.

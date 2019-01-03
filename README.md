@@ -1,10 +1,10 @@
-## Sophie Gill
+## Jedd Hopkins
 
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Blog](http://sophgill.wordpress.com)
 
-I'm a former IT Project Manager and Business Analyst who has moved over to the dark side and learnt to code at Makers Academy. I've led tech projects at Guy's and St Thomas' Hospital and the Bank of England, but now want to use my analysis and problem solving skills to make stuff.
+I'm a former EMEA Team Lead, previously completing contract work for Google, who has moved over to the dark side and is learning to code at Makers Academy. I've led multiple projects across Europe during my time at Google with the proprietary purpose of collecting multiple data types to help improve location data, but now I want to use my skills to dive into a new aspect of technology which I believe I have an exciting career in.
 
-I'm currently an Associate Product Developer at AND Digital, my most recent project was a healthcare application MVP that utilised full-stack JavaScript, blockchain and distributed web technologies. I contributed to the React front end and Express back end.
+I'm currently a Junior Software Developer at Capgemini, focusing primarily on Ruby & Ruby on Rails at Makers Academy, but already enrolled on a Java bootcamp which will begin mid April.
 
 
 ## Skills

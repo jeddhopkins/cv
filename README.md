@@ -1,11 +1,12 @@
-## Jedd Hopkins
+# Jedd Hopkins
 
-[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
+Read all about me ::D:
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[Skills](#skills) | [Projects & Code](#projects & code) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact](#contact)
 
 I'm a former EMEA Team Lead, previously completing contract work for Google, who has moved over to the dark side and is learning to code at Makers Academy. I've led multiple projects across Europe during my time at Google with the proprietary purpose of collecting multiple data types to help improve location data, but now I want to use my skills to dive into a new aspect of technology which I believe I have an exciting career in.
 
 I'm currently a Junior Software Developer at Capgemini, focusing primarily on Ruby & Ruby on Rails at Makers Academy, but have already enrolled on a Java bootcamp which will begin mid April.
-
 
 ## Skills
 
@@ -30,7 +31,7 @@ During the development of the multiplayer game Quizzbuzz for our final project a
 - Ruby
 
 
-## Projects
+## Projects & Code
 
 Project title  | Description  									| Development timeframe | Technologies | Testing
 ------------- | ------------------------------	| ------------- |------------- |---------
@@ -84,3 +85,8 @@ A 16-week intensive development bootcamp, emphasizing:
 - I love reading in my spare time and try to finish a book every three weeks
 - I play 5-a-side football whenever I can and enjoy exploring London.
 - You can find me at the gym most mornings and I'm a regular at yoga.
+
+## Contact
+
+* Github: https://github.com/jeddhopkins
+* Codewars: https://www.codewars.com/users/jeddhopkins

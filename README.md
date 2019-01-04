@@ -13,11 +13,9 @@ I'm currently a Junior Software Developer at Capgemini, focusing primarily on Ru
 
 Throughout my career it has been essential that I maintain excellent communication skills, as a translator between the technical and non-technical if you will; whether as a Team Lead acting as the link between my team in Europe and HQ in London, a Bar Manager hosting training sessions and communicating with customer conflicts, or a Junior Software Developer writing code to solve real world problems.
 
-#### Analysis
+#### Attention to Detail
 
-My years as a Business Analyst have proved brilliant preparation for life as a developer. I am able to turn vague ideas into actionable user stories, and enjoy using these to guide my development process.
-
-I pick up new concepts with ease, and focus on asking the right questions to further my understanding of new ideas. These skills served me well when I worked in three different sectors within 18 months (Banking, Charity and NHS), and I was able to understand the specific business problems and requirements of each organisation to quickly gain the trust of project stakeholders.
+My 2 years working for Google have provided me with brilliant preparation for life as a developer. I pick up new concepts with ease and focus on asking important questions to further my knowledge and understanding. Whilst using Agile methodology I am able to spot small mistakes and implement the changes needed to correct them. These skills have served me well in multiple industries and are easily transferable into any new role I may face.
 
 #### Delivery
 
@@ -28,10 +26,8 @@ During the development of the multiplayer game Quizzbuzz for our final project a
 
 #### Additional Skills
 
-- Scrum (previously completed Scrum Master certification)
-- Kanban
-- ISEB Foundation certificate
-- Full project lifecycle experience
+- Agile
+- Ruby
 
 
 ## Projects

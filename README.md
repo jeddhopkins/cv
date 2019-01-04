@@ -1,8 +1,8 @@
 # Jedd Hopkins
 
-Read all about me ::D:
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-[Skills](#skills) | [Projects & Code](#projects & code) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact](#contact)
+Read all about me.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[Skills](#skills) | [Projects & Code](#projects_&_code) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact](#contact)
 
 I'm a former EMEA Team Lead, previously completing contract work for Google, who has moved over to the dark side and is learning to code at Makers Academy. I've led multiple projects across Europe during my time at Google with the proprietary purpose of collecting multiple data types to help improve location data, but now I want to use my skills to dive into a new aspect of technology which I believe I have an exciting career in.
 

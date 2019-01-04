@@ -4,16 +4,14 @@
 
 I'm a former EMEA Team Lead, previously completing contract work for Google, who has moved over to the dark side and is learning to code at Makers Academy. I've led multiple projects across Europe during my time at Google with the proprietary purpose of collecting multiple data types to help improve location data, but now I want to use my skills to dive into a new aspect of technology which I believe I have an exciting career in.
 
-I'm currently a Junior Software Developer at Capgemini, focusing primarily on Ruby & Ruby on Rails at Makers Academy, but already enrolled on a Java bootcamp which will begin mid April.
+I'm currently a Junior Software Developer at Capgemini, focusing primarily on Ruby & Ruby on Rails at Makers Academy, but have already enrolled on a Java bootcamp which will begin mid April.
 
 
 ## Skills
 
 #### Communication
 
-Throughout my career I have acted as a translator between the technical and non-technical; whether as a Business Analyst writing business requirements, a Project Manager gaining agreement to deploy new software, or a trainee Junior Developer writing code based on user stories.
-
-Whilst at Makers Academy I have maintained a [blog](http://sophgill.wordpress.com) about learning to code. I also prepared and delivered two workshops, mentored two juniors from the lower cohort, and rewrote a Makers Academy course material about sharing Github repositories to improve the process for future cohorts.
+Throughout my career it has been essential that I maintain excellent communication skills, as a translator between the technical and non-technical if you will; whether as a Team Lead acting as the link between my team in Europe and HQ in London, a Bar Manager hosting training sessions and communicating with customer conflicts, or a Junior Software Developer writing code to solve real world problems.
 
 #### Analysis
 

@@ -2,7 +2,7 @@
 
 Read all about me.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-[Skills](#skills) | [Projects & Code](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact](#contact)
+[Skills](#skills) | [Projects & Code](#projects--code) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact](#contact)
 
 I'm a former EMEA Team Lead, previously completing contract work for Google, who has moved over to the dark side and is learning to code at Makers Academy. I've led multiple projects across Europe during my time at Google with the proprietary purpose of collecting multiple data types to help improve location data, but now I want to use my skills to dive into a new aspect of technology which I believe I have an exciting career in.
 
@@ -35,8 +35,6 @@ During the development of the multiplayer game Quizzbuzz for our final project a
 
 Project title  | Description  									| Development timeframe | Technologies | Testing
 ------------- | ------------------------------	| ------------- |------------- |---------
-[Quizzbuzz](https://github.com/quizzbuzz/quizzbuzz) | A multiplayer general knowledge quiz game. Play [here](https://qzbz.herokuapp.com)! | 10 days | React, Elixir, Phoenix, PostgreSQL| ExUnit, Enzyme, Sinon, Mocha, Chai
-[SpyAPI](https://github.com/spyAPI/spyAPI) | A tool for mocking API requests, to be used during the build and testing of new projects. Try it out [here](https://spy-api.herokuapp.com). | 3 days | Ruby on Rails, PostgreSQL | RSpec, Capybara
 
 
 ## Experience
